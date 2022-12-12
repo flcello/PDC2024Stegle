@@ -17,7 +17,7 @@ and the following dependencies:
 pip install muon mudatasets mofapy2 mofax leidenalg
 ```
 
-If you're using jupyterhub on the cluster also run
+If you're using jupyterhub on the cluster (jupyterhub.embl.de) also run
 
 ```
 conda install -c anaconda ipykernel
