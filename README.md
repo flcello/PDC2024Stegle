@@ -7,7 +7,7 @@
 Conda environment with jupyter notebook/lab:
 
 ```
-conda create -n pdcstegle jupyterlab
+conda create -n pdcstegle jupyterlab python=3.10
 conda activate pdcstegle
 ```
 
