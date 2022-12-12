@@ -17,6 +17,13 @@ and the following dependencies:
 pip install muon mudatasets mofapy2 mofax leidenalg
 ```
 
+If you're using jupyterhub on the cluster also run
+
+```
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=pdcstegle
+```
+
 Then open jupyter lab in the root directory of the repository with 
 
 ```
